@@ -4,8 +4,8 @@
 
 import os, re, sys
 
-user = "rickychue"   ### You have to enter your login_id and password here.
-pw = "08Ilcatcat"
+user = "xxx"   ### You have to enter your login_id and password here.
+pw = "xxx"
 web = "https://www.cosmosim.org/uws/query"
 #link = "/Users/rickyccy/Documents/Research_assemblybias/mock/particles/all/"
 link = "/Volumes/Seagate Expansion Drive/Bolshoi_sim/"

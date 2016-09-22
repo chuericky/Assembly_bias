@@ -18,8 +18,8 @@ def Get_Piece(x_min, x_max, bit):
     return x_piece
 
 ### login name and password for cosmosim
-user = "rickychue"
-pw = "08Ilcatcat"
+user = "xxx"
+pw = "xxx"
 web = "https://www.cosmosim.org/uws/query"
 mock_link = "/Users/rickyccy/Documents/Research_assemblybias/mock/"
 link = "/Users/rickyccy/Documents/Research_assemblybias/mock/halo/"

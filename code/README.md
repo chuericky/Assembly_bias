@@ -3,6 +3,7 @@
 - Chi-squared goodness of fit (combine_chi2.py, chi2_multi.c)
 - Hypothesis testing and p-value (p_value.py)
 - Bootstrapping and jackknife analysis (shear_profile_num_wider.py)
+- Data cleaning (try_read.c)
 - SQL command lines (particle_download.py, particle_script.py)
 - "Chaining-mesh" technique (2pt_auto_DD_wider.c, gg_lensing_wider.c, mock_2pt_DD.c, overdensity.c)
 - Header files (halo_model.h, tools.h, cosmopar.h)
